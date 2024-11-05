@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "handlebars views/partials/questionPart.handlebars -f public/questionPartTemplate.js",
+    "prestart": "npm run build"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "handlebars": "^4.7.7",
+    "path": "^0.12.7",
+    "prompt-sync": "^4.2.0"
+  }
+}

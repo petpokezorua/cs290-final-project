@@ -1,0 +1,31 @@
+    <div class="custom-box box hide" id = "guide-box" class="center">
+            <H3>How smart do you think you are?</H3>
+            <p>Are you ready to conquer and challenge this question quiz trivia? <br>
+               There are 36 questions, 3 from each grade, could you pass your highschool class again? <br>
+               Make it past 12th grade to win, but miss 3 and you're out! <br><br>
+               Good luck! <br>
+            </p>
+            <p>Number of questions: <span class ="num-of-questions">36</span></p>
+            <button type="button" class="_button" id = "start">Start Quiz Game!</button>
+        </div>
+        
+        {{#each questionInfo}}
+
+            {{> questionPart}}
+
+        {{/each}}
+    <div class="custom-box box hide" id = "result-box" class="center" style="display: none">
+            <H3>Wow you scored</H3>
+            <p>Are you ready to conquer and challenge this question quiz trivia? <br>
+               There are 36 questions randomly chosen for you with various topics. <br>
+               Answer all of them correctly to win! <br>
+               Good luck! <br>
+            </p>
+            <p>Number of questions: <span class ="num-of-questions">36</span></p>
+            <button type="button" class="_button" id = "rety">Try Again!</button>
+        </div>
+        <div class="next-button" class="center">
+            <button type="button" class="_button" id = "next">Next</button>
+        </div>
+    </div>
+    </body>

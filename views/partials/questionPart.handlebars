@@ -1,0 +1,35 @@
+<div class ="custom-box quiz-box" id ="quiz-box" index={{number}} answer={{answer}}>
+    <div class ="current-question-num">{{question}}<br>Question {{number}} of 36 <br> Grade: {{grade}} | Topic: {{topic}}</div>
+    <div class="question-content">{{questionName}}</div>
+
+    <div class="option-container">
+        <div>
+            <button  class="answer-option" id = "option-{{option.[0]}}">{{choices.[0]}}</button>
+        </div>
+        <div>
+            <button class="answer-option" id = "option-{{option.[1]}}">{{choices.[1]}}</button>
+        </div>
+        <div>
+            <button class="answer-option" id = "option-{{option.[2]}}">{{choices.[2]}}</button>
+        </div>
+        <div>
+            <button class="answer-option" id = "option-{{option.[3]}}">{{choices.[3]}}</button>
+        </div>
+    </div>
+    {{!-- <div class="result-container">
+        <div class="correct-answer" name = "correct">{{answer}}</div>
+        <div class="wrong-answer" name = "wrong">{{otherchoice}}</div>
+        <div class="wrong-answer" name = "wrong">{{otherchoice}}</div>
+        <div class="wrong-answer" name = "wrong">{{otherchoice}}</div>
+    </div> --}}
+    <div class="result-container">
+        <div class="correct-answer" name = "correct">{{answer}}</div>
+    </div>
+</div>
+<div class="answer-indicator">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+
+</div>
