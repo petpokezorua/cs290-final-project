@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Quiz</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet", href ="style.css">
+        <script src="quiz.js" charset="utf-8" defer></script>
+    </head>
+    <body>
+
+    <div class="custom-box box hide" id = "guide-box" class="center">
+            <H3>Who's smarter than a CS290-F22 Student?</H3>
+            <p>Are you ready to conquer this question quiz trivia? <br>
+               <br>
+            </p>
+            <p>Number of questions: <span class ="num-of-questions">36</span></p>
+            <button type="button" class="_button" id = "start">Start Quiz Game!</button>
+        </div>
+        <div class ="custom-box quiz-box" id ="quiz-box" data-answer="abcd" data-index="viso">
+            <div class ="current-question-num">Question 1<br> Topic: Computer Science</div>
+            <div class="question-content">What is CSS?</div>
+            <div class="option-container">
+                <div>
+                    <button  class="answer-option" id = "option-1">A style sheet language</button>
+                </div>
+                <div>
+                    <button class="answer-option" id = "option-2">Beans</button>
+                </div>
+                <div>
+                    <button class="answer-option" id = "option-3">Rice</button>
+                </div>
+                <div>
+                    <button class="answer-option" id = "option-4">Tofu</button>
+                </div>
+            </div>
+            <div class="result-container">
+                <div class="correct-answer" name="correct"> Something </div>
+                <div class="right-or-wrong" name="result"> Right / wrong </div>
+            </div>
+            <div class="next-button" class="center">
+                <button type="button" class="_button" id = "next">Next</button>
+            </div>
+            <div class="answer-button" class="center">
+                <button type="button" class="_button" id = "answer">Answer</button>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>

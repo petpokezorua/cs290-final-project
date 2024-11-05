@@ -1,0 +1,851 @@
+{
+	"1": [
+	{
+		"question": "How many colors are in the rainbow",
+		"choices": ["7", "4", "1", "6"],
+		"answer": "7",
+		"topic": "Science"
+	},
+	{
+		"question": "What is 5 + 7",
+		"choices": ["12", "11", "5", "57"],
+		"answer": "12",
+		"topic": "Math"
+	},
+	{
+		"question": "What day is before Tuesday?",
+		"choices": ["Monday", "Wednesday", "Saturday", "Friday"],
+		"answer": "Monday",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "Which animal has less than 4 legs?",
+		"choices": ["A dog", "A cat", "A fish", "A horse"],
+		"answer": "A fish",
+		"topic": "Science"
+	},
+	{
+		"question": "What is 1 + 7?",
+		"choices": ["8", "3", "1", "9"],
+		"answer": "8",
+		"topic": "Math"
+	},
+	{
+		"question": "What is 3 + 1?",
+		"choices": ["4", "2", "1", "31"],
+		"answer": "4",
+		"topic": "Math"
+	},
+	{
+		"question": "What is 5 - 3?",
+		"choices": ["2", "13", "0", "8"],
+		"answer": "2",
+		"topic": "Math"
+	},
+	{
+		"question": "What is the 2nd month in the calander?",
+		"choices": ["January", "February", "April", "November"],
+		"answer": "February",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "What is 10 + 7?",
+		"choices": ["3", "12", "17", "14"],
+		"answer": "17",
+		"topic": "Math"
+	},
+	{
+		"question": "What are the three primary paint colors?",
+		"choices": ["Red, yellow, and blue", "Yellow, blue and green", "Green, red, purple", "Black, white, grey"],
+		"answer": "Red, yellow, and blue",
+		"topic": "Science"
+	},
+	{
+		"question": "Which two countries border the United States?",
+		"choices": ["China and Russia", "Mexico and Europe", "Mexico and Alaska", "Canada and Mexico"],
+		"answer": "Canada and Mexico",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "How many states are in the United States?",
+		"choices": ["13", "25", "50", "100"],
+		"answer": "50",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "What is the name of a three-sided shape?",
+		"choices": ["Square", "Rectangle", "Circle", "Triangle"],
+		"answer": "Triangle",
+		"topic": "Math"
+	},
+	{
+		"question": "What is the shape of the Earth?",
+		"choices": ["A sphere", "A square", "A plate", "A triangle"],
+		"answer": "A sphere",
+		"topic": "Science"
+	},
+	{
+		"question": "What colors are on the American Flag?",
+		"choices": ["Black, green, and yellow", "Light blue and white", "Red, white, and blue", "Red and blue"],
+		"answer": "Red, white, and blue",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "What primary colors combine to make the color green?",
+		"choices": ["Blue and red", "Blue and purple", "Yellow and blue", "Blue, yellow, and brown"],
+		"answer": "Blue and red",
+		"topic": "Science"
+	},
+	{
+		"question": "What day comes after Saturday?",
+		"choices": ["Sunday", "Friday", "Monday", "Wednesday"],
+		"answer": "Sunday",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "How many seconds are in a minute?",
+		"choices": ["60", "30", "25", "100"],
+		"answer": "60",
+		"topic": "Math"
+	},
+	{
+		"question": "How many minutes are in an hour?",
+		"choices": ["60", "30", "20", "100"],
+		"answer": "60",
+		"topic": "Math"
+	},
+	{
+		"question": "What month is Valentine's Day in?",
+		"choices": ["February", "October", "March", "December"],
+		"answer": "February",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "What month is Christmas in?",
+		"choices": ["November", "December", "January", "July"],
+		"answer": "December",
+		"topic": "Social Studies"
+	},
+	{
+		"question": "What animal goes 'hoot' in the night?",
+		"choices": ["An owl", "A cat", "A wolf", "A dog"],
+		"answer": "An owl",
+		"topic": "Science"
+	}
+	],
+	"2": [
+		{
+			"question": "How many sides does a triangle have?",
+			"choices": ["5", "2", "3", "4"],
+			"answer": "3"
+		},
+		{
+			"question": "How many sides does a square have?",
+			"choices": ["2", "4", "3", "0"],
+			"answer": "4"
+		},
+		{
+			"question": "How many sides does a rectangle have?",
+			"choices": ["4", "12", "3", "5"],
+			"answer": "4"
+		},
+		{
+			"question": "What is 183 rounded to the nearest tens?",
+			"choices": ["100", "200", "190", "180"],
+			"answer": "180",
+			"topic": "Math"
+		},
+		{
+			"question": "What is 96 rounded to the nearest tens?",
+			"choices": ["100", "90", "95", "96"],
+			"answer": "100",
+			"topic": "Math"
+		},
+		{
+			"question": "What is 187 rounded to the nearest hundreds?",
+			"choices": ["100", "200", "190", "180"],
+			"answer": "200",
+			"topic": "Math"
+		},
+		{
+			"question": "What is the correct spelling for the day after Tuesday?",
+			"choices": ["Wedsday", "Wednesday", "Wensday", "Wendesday"],
+			"answer": "Wednesday",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What are the two main toppings on Hawaiian pizza",
+			"choices": ["Cheese and pepperoni", "Ham and sausage", "Pepperoni and spinach", "Pineapple and ham"],
+			"answer": "Pineapple and ham",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What's the name of the fluffy white shapes you can see in the sky?",
+			"choices": ["Hurricanes", "Mist", "Clouds", "Birds"],
+			"answer": "Clouds",
+			"topic": "Science"
+		},
+		{
+			"question": "In what state is the Grand Canyon located in?",
+			"choices": ["Arizona", "New Mexico", "Montana", "Ohio"],
+			"answer": "Arizona",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many seasons are there?",
+			"choices": ["4", "3", "2", "5"],
+			"answer": "4",
+			"topic": "Science"
+		},
+		{
+			"question": "Who was the first President of the United States",
+			"choices": ["Abraham Lincoln", "George Washington", "Benjamin Franklin", "John Adams"],
+			"answer": "George Washington",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many dimes make up one dollar?",
+			"choices": ["5", "25", "10", "20"],
+			"answer": "10",
+			"topic": "Math"
+		},
+		{
+			"question": "How many continents are there?",
+			"choices": ["5", "3", "7", "8"],
+			"answer": "7",
+			"topic": "Social Studies"
+		}
+	],
+	"3": [
+		{
+			"question": "How many days are there in September?",
+			"choices": ["30", "29", "31", "32"],
+			"answer": "30",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many days are there in February 2022?",
+			"choices": ["29", "28", "31", "30"],
+			"answer": "28",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many days are there in May 2022?",
+			"choices": ["29", "28", "31", "30"],
+			"answer": "31",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "Egypt is in what continent?",
+			"choices": ["Africa", "Europe", "Middle East", "South America"],
+			"answer": "Africa",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "Which bird lays the largest eggs?",
+			"choices": ["Ostrich", "Emu", "Chicken", "Bald Eagle"],
+			"answer": "Ostrich",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the longest river in the USA?",
+			"choices": ["The Mississippi", "The Nile River", "The Yellowstone River", "The Ozark River"],
+			"answer": "The Mississippi",
+			"topic": "Science"
+		},
+		{
+			"question": "What is Obama's last name?",
+			"choices": ["Barack", "Obama", "Hussein", "Joe"],
+			"answer": "Obama",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How old do you have to be to vote in the United States?",
+			"choices": ["17", "18", "21", "20"],
+			"answer": "18",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is 318 - 173?",
+			"choices": ["145", "183", "165", "491"],
+			"answer": "145",
+			"topic": "Math"
+		},
+		{
+			"question": "What is 7 x 3?",
+			"choices": ["21", "10", "4", "24"],
+			"answer": "21",
+			"topic": "Math"
+		},
+		{
+			"question": "What is 397 + 77?",
+			"choices": ["474", "574", "454", "464"],
+			"answer": "474",
+			"topic": "Math"
+		},
+		{
+			"question": "9 x 5?",
+			"choices": ["45", "34", "40", "95"],
+			"answer": "45",
+			"topic": "Math"
+		},
+		{
+			"question": "What is 58 - 103",
+			"choices": ["43", "-45", "161", "-55"],
+			"answer": "-45",
+			"topic": "Math"
+		},
+		{
+			"question": "What does the earth orbit around?",
+			"choices": ["The moon", "The sun", "The solar system", "Mars"],
+			"answer": "The sun",
+			"topic": "Science"
+		},
+		{
+			"question": "How many planets are there in our solar system?",
+			"choices": ["8", "9", "5", "12"],
+			"answer": "8",
+			"topic": "Science"
+		},
+		{
+			"question": "How many continents are there?",
+			"choices": ["6", "7", "10", "50"],
+			"answer": "7",
+			"topic": "Science"
+		},
+		{
+			"question": "What is a group of lions called?",
+			"choices": ["A pride", "A murder", "A pack", "A hunt"],
+			"answer": "A pride",
+			"topic": "Science"
+		}
+	],
+	"4": [
+		{
+			"question": "What is the name of the galaxy that the Earth is in?",
+			"choices": ["The Milky Way", "The Solar System", "Kepler's Belt", "The Hubble"],
+			"answer": "The Milky Way",
+			"topic": "Science"
+		},
+		{
+			"question": "What are the two main political parties in America",
+			"choices": ["Republicans and Democrats", "Patriarchy and Matriarchy", "Whigs and Confederates", "Senators and Representatives"],
+			"answer": "Republicans and Democrats",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is an animal that eats both meat and vegetables called?",
+			"choices": ["Carnivores", "Omnivores", "Scavengers", "Detritvores"],
+			"answer": "Omnivores",
+			"topic": "Science"
+		},
+		{
+			"question": "How many stars are there on the U.S. flag?",
+			"choices": ["25", "13", "40", "50"],
+			"answer": "50",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is 3 x 3 x 3?",
+			"choices": ["9", "27", "20", "36"],
+			"answer": "27",
+			"topic": "Math"
+		}
+	],
+	"5": [
+		{
+			"question": "Which religion celebrates Hanukkah",
+			"choices": ["Christianity", "Judaism", "Buddism", "Islam"],
+			"answer": "7",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "In what month does the autumnal equinox start?",
+			"choices": ["August", "September", "October", "November"],
+			"answer": "September",
+			"topic": "Science"
+		},
+		{
+			"question": "Find x, 10 + x = 30",
+			"choices": ["x = 20", "x = 10", "x = 0.5", "x = 30"],
+			"answer": "x = 20",
+			"topic": "Math"
+		},
+		{
+			"question": "Find x, 3x = 51",
+			"choices": ["x = 17", "x = 21", "x = 48", "x = 54"],
+			"answer": "x = 17",
+			"topic": "Math"
+		},
+		{
+			"question": "Find x, x + 83 = 19",
+			"choices": ["x = -64", "x = 64", "x = 102", "x = -112"],
+			"answer": "x = -64",
+			"topic": "Math"
+		},
+		{
+			"question": "What is a group of crows called",
+			"choices": ["A flock", "A murder", "A school", "A stand"],
+			"answer": "A murder",
+			"topic": "Science"
+		},
+		{
+			"question": "What animals are nicknamed as sea cows?",
+			"choices": ["Seals", "Otters", "Manatees", "Rehtom Fish"],
+			"answer": "Manatees",
+			"topic": "Science"
+		}
+	],
+	"6": [
+		{
+			"question": "A deficiency of what vitamin causes scurvy?",
+			"choices": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+			"answer": "Vitamin C",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the fastest speed an object can move?",
+			"choices": ["The speed of light", "The speed of sound", "9999999999 miles per hour", "Mach 10"],
+			"answer": "The speed of light",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the largest U.S. state?",
+			"choices": ["Alaska", "Texas", "California", "New York"],
+			"answer": "Alaska",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is the smallest U.S. state?",
+			"choices": ["Hawaii", "Rhode Island", "Massachusetts", "Vermont"],
+			"answer": "Rhode Island",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is the fastest land animal?",
+			"choices": ["Hawaii", "Rhode Island", "Massachusetts", "Vermont"],
+			"answer": "Rhode Island",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is the heaviest animal?",
+			"choices": ["A blue whale", "An elephant", "A rhino", "Your mother"],
+			"answer": "A blue whale",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the area of a rectange with a base of 3 and a height of 21?",
+			"choices": ["48 square units", "63 square units", "30.5 square units", "24 square units"],
+			"answer": "63 square units",
+			"topic": "Math"
+		},
+		{
+			"question": "What is the smallest country in the world?",
+			"choices": ["Vatican City", "Liechtenstein", "Monaco", "Luxembourg"],
+			"answer": "Vatican City",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "Romans used an artifical sweetener called Sapa, what was its main component?",
+			"choices": ["Honey", "Lead", "Gold", "Beetle Shells"],
+			"answer": "Lead",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the area of a trapezoid with a base 1 of 3, base 2 of 5 and a height of 21?",
+			"choices": ["84 square units", "168 square units", "42 square units", "315 square units"],
+			"answer": "84 square units",
+			"topic": "Math"
+		},
+		{
+			"question": "What is the square root of 64?",
+			"choices": ["8", "16", "2", "24"],
+			"answer": "8",
+			"topic": "Math"
+		}
+	],
+	"7": [
+		{
+			"question": "Which of the following is a prime number?",
+			"choices": ["87", "51", "81", "53"],
+			"answer": "53",
+			"topic": "Math"
+		},
+		{
+			"question": "Which of the following is a composite number?",
+			"choices": ["79", "11", "17", "51"],
+			"answer": "51",
+			"topic": "Math"
+		},
+		{
+			"question": "What type of line is longitude represented by on a map?",
+			"choices": ["Horizonal", "Latitude", "Vertical", "Diagonal"],
+			"answer": "Vertical",
+			"topic": "Science"
+		},
+		{
+			"question": "What type of blood cells fight infections?",
+			"choices": ["White blood cells", "Red blood cells", "Blue blood cells", "Fighter blood cells"],
+			"answer": "White blood cells",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the primary metal that comes from Bauxite?",
+			"choices": ["Aluminium", "Iron", "Copper", "Silver"],
+			"answer": "Aluminium",
+			"topic": "Science"
+		},
+		{
+			"question": "What is 8 ÷ 2(2+2)?",
+			"choices": ["16", "1", "4", "2"],
+			"answer": "16",
+			"topic": "Math"
+		},
+		{
+			"question": "What are the first 5 digits of pi?",
+			"choices": ["3.1415", "2.7182", "1.9976", "6.0221"],
+			"answer": "3.1415",
+			"topic": "Math"
+		},
+		{
+			"question": "When someone is envious, they are said to be what color?",
+			"choices": ["Red", "Green", "Blue", "Pink"],
+			"answer": "Green",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many notes are there on a standard grand piano?",
+			"choices": ["88", "68", "72", "96"],
+			"answer": "88",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is the densest element in the world?",
+			"choices": ["Iridium", "Gold", "Lead", "Osmium"],
+			"answer": "Osmium",
+			"topic": "Science"
+		},
+		{
+			"question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+			"choices": ["Amelia Earhart", "Anne Frank", "Marie Curie", "Ada Lovelace"],
+			"answer": "Amelia Earhart",
+			"topic": "Social Studies"
+		}
+	],
+	"8": [
+		{
+			"question": "How many prime numbers are less than 10",
+			"choices": ["4", "3", "5", "6"],
+			"answer": "4",
+			"topic": "Math"
+		},
+		{
+			"question": "Who wrote Hamlet?",
+			"choices": ["Shakespeare", "Homer", "J.K. Rowling", "Socrates"],
+			"answer": "Shakespeare",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "The Statue of Liberty was a gift from which country?",
+			"choices": ["United States", "France", "Spain", "Canada"],
+			"answer": "France",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What color is Cinnabar?",
+			"choices": ["Red", "Silver", "Black", "Green"],
+			"answer": "Red",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the common acid used to dissolve gold called?",
+			"choices": ["Aqua Regia", "Dihydrogen monoxide", "Muriatic Acid", "Nitric Acid"],
+			"answer": "Aqua Regia",
+			"topic": "Science"
+		},
+		{
+			"question": "What color is Cinnabar?",
+			"choices": ["Red", "Silver", "Black", "Green"],
+			"answer": "Red",
+			"topic": "Science"
+		},
+		{
+			"question": "What is 13 to the power of 0?",
+			"choices": ["13", "1", "0", "-13"],
+			"answer": "1",
+			"topic": "Math"
+		},
+		{
+			"question": "What is the volume of a sphere with a radius of 3",
+			"choices": ["36π", "9π", "27π", "6π"],
+			"answer": "36π",
+			"topic": "Math"
+		},
+		{
+			"question": "What is the surface area of a sphere with a diameter of 6?",
+			"choices": ["36π", "9π", "27π", "6π"],
+			"answer": "36π",
+			"topic": "Math"
+		},
+		{
+			"question": "What is the atomic symbol for copper?",
+			"choices": ["Cp", "Cu", "Kr", "Co"],
+			"answer": "Cu",
+			"topic": "Science"
+		},
+		{
+			"question": "Area 51 is located in which US state?",
+			"choices": ["Nevada", "Montana", "Ohio", "Indiana"],
+			"answer": "Nevada",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many balls are on a pool table at the start of a game?",
+			"choices": ["12", "13", "16", "20"],
+			"answer": "16",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What type of tree is thought to be the oldest known tree?",
+			"choices": ["Redwoods", "Bristlecone Pine", "Giant Sequoia", "Bald Cypress"],
+			"answer": "Bristlecone Pine",
+			"topic": "Science"
+		},
+		{
+			"question": "What does NATO stand for?",
+			"choices": ["North Atlantic Treaty Organization", "North American Trade Organization", "National Armistice Treaty Organization ", "National Aeronautics and Targeted Operations"],
+			"answer": "North Atlantic Treaty Organization",
+			"topic": "Social Studies"
+		}
+	],
+	"9": [
+		{
+			"question": "What was the largest nuclear bomb ever tested called?",
+			"choices": ["Little Boy", "Fat man", "Tsar Bomba", "MOAB (Mother of All Bombs)"],
+			"answer": "Tsar Bomba",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the world's most expensive spice by weight?",
+			"choices": ["Saffron", "Vanilla", "Ground Truffle", "Black Cumin Seed"],
+			"answer": "Saffron",
+			"topic": "Science"
+		},
+		{
+			"question": "How many presidents has the US had?",
+			"choices": ["46", "45", "42", "40"],
+			"answer": "46",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many different pieces does each side have in Chess?",
+			"choices": ["5 pieces", "4 pieces", "6 pieces", "8 pieces"],
+			"answer": "6 pieces",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "A right side triangle has a leg of length 3 and another leg of length 4, what is the length of its hypotenuse?",
+			"choices": ["5", "25", "7", "8"],
+			"answer": "5",
+			"topic": "Math"
+		},
+		{
+			"question": "A right side triangle has a leg of length 5 and another leg of length 12, what is the length of its hypotenuse?",
+			"choices": ["13", "17", "16.5", "21"],
+			"answer": "13",
+			"topic": "Math"
+		},
+		{
+			"question": "What color does titanium turn to after it has been heated?",
+			"choices": ["Blue", "Copper", "White", "Black"],
+			"answer": "Blue",
+			"topic": "Science"
+		},
+		{
+			"question": "When did World War II end?",
+			"choices": ["1918", "1923", "1942", "1945"],
+			"answer": "1945",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What is 120% of 20?",
+			"choices": ["22", "24", "25", "30"],
+			"answer": "24",
+			"topic": "Math"
+		}
+	],
+	"10": [
+		{
+			"question": "Which of these birds are toxic?",
+			"choices": ["Pitohui", "The American Crow", "Ring-billed Gull", "Australian shoveler"],
+			"answer": "Pitohui",
+			"topic": "Science"
+		},
+		{
+			"question": "How many elements are on the periodic table of elements?",
+			"choices": ["100", "98", "118", "112"],
+			"answer": "118",
+			"topic": "Science"
+		},
+		{
+			"question": "Which element is the building block of life?",
+			"choices": ["Carbon", "Oxygen", "Hydrogen", "Sulfur"],
+			"answer": "Carbon",
+			"topic": "Science"
+		},
+		{
+			"question": "What is the chemical forumula for glucose?",
+			"choices": ["C6H12O6", "H2O", "G4C2", "C12H22O11"],
+			"answer": "C6H12O6",
+			"topic": "Science"
+		},
+		{
+			"question": "What is tungsten's melting point?",
+			"choices": ["3422°C", "1252°C", "5750°C", "6191°C"],
+			"answer": "3422°C",
+			"topic": "Science"
+		},
+		{
+			"question": "Who commanded the Confederate Armies during the American Civil War?",
+			"choices": ["Robert E. Lee", "Ulysses S. Grant", "Winfield Scott", "Stonewall Jackson"],
+			"answer": "Robert E. Lee",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "In what year did the UK's lease on Hong Kong expire?",
+			"choices": ["1997", "1998", "2002", "2013"],
+			"answer": "1997",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "Who aws the third country to have possession of an atomic bomb?",
+			"choices": ["Britain", "Russia", "China", "Canada"],
+			"answer": "Britain",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What do you need to do to the graph f(x) = x^3 + 2 to make it g(x) = x^3 - 5??",
+			"choices": ["Shift up 7 units", "Shift down 7 units", "Shift left 7 units", "Shift right 7 units"],
+			"answer": "Shift down 7 units",
+			"topic": "Math"
+		},
+		{
+			"question": "What is the volume of a rectangular pyramid with a length of 3, a width of 4, and a height of 12?",
+			"choices": ["96", "72", "48", "144"],
+			"answer": "48",
+			"topic": "Math"
+		}
+	],
+	"11": [
+		{
+			"question": "What happens to the volume of water when it freezes",
+			"choices": ["It increases", "It stays the same", "It decreases", "It decreases then stays the same"],
+			"answer": "It increases",
+			"topic": "Science"
+		},
+		{
+			"question": "What two planets in our solar system have no moons?",
+			"choices": ["Mars and Venus", "Mars and Mercury", "Mercury and Venus", "Pluto and Mars"],
+			"answer": "Mercury and Venus",
+			"topic": "Science"
+		},
+		{
+			"question": "How many time zones does Russia span across?",
+			"choices": ["11", "5", "7", "3"],
+			"answer": "11",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What type of number is 12 + 51i?",
+			"choices": ["Imaginary", "Real", "Complex", "Real and Complex"],
+			"answer": "Complex",
+			"topic": "Math"
+		},
+		{
+			"question": "What does x^2 + 5x + 4 factor out to?",
+			"choices": ["(x + 1)(x + 4)", "(x + 2)(x + 3)", "(x + 5)(x - 1)", "(x + 2)(x + 2)"],
+			"answer": "(x + 1)(x + 4)",
+			"topic": "Math"
+		},
+		{
+			"question": "How long was the American Civil War?",
+			"choices": ["3 years", "4 years", "6 years", "7 years"],
+			"answer": "4 years",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many hearts does an octopus have?",
+			"choices": ["1", "2", "3", "4"],
+			"answer": "3",
+			"topic": "Science"
+		},
+		{
+			"question": "A baker's dozen is equal to what number?",
+			"choices": ["10", "12", "13", "16"],
+			"answer": "13",
+			"topic": "Math"
+		},
+		{
+			"question": "What does the latin word Tempus mean in English?",
+			"choices": ["Wind", "Time", "Temperature", "Greed"],
+			"answer": "Time",
+			"topic": "Social Studies"
+		}
+	],
+	"12": [
+		{
+			"question": "What year did Benjamin Franklin first appear on the $100 dollar bill?",
+			"choices": ["1914", "1918", "1812", "1962"],
+			"answer": "1914",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "How many legs does a lobster have?",
+			"choices": ["6", "8", "10", "12"],
+			"answer": "10",
+			"topic": "Science"
+		},
+		{
+			"question": "What state is cloest to Africa?",
+			"choices": ["Maine", "Florida", "Texas", "North Carolina"],
+			"answer": "Maine",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "What country has the most lakes?",
+			"choices": ["Canada", "United States", "Russia", "China"],
+			"answer": "Canada",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "Find the derivative of f(x) = 6x^3 - 9x + 4?",
+			"choices": ["f'(x) = 18x^2 - 9", "f'(x) = 3x^2 - 3", "f'(x) = -3x^2 + 4", "f'(x) = 12x^2 - 3x + 2"],
+			"answer": "f'(x) = 18x^2 - 9",
+			"topic": "Math"
+		},
+		{
+			"question": "What country has the most lakes?",
+			"choices": ["Canada", "United States", "Russia", "China"],
+			"answer": "Canada",
+			"topic": "Social Studies"
+		},
+		{
+			"question": "Find x, 4^x + 6^x = 9^x?",
+			"choices": ["≈1.187", "≈1.111", "≈1.121", "Cannot be solved"],
+			"answer": "≈1.187",
+			"topic": "Math"
+		},
+		{
+			"question": "What does the problem 3^3 + 4(8 - 5) ÷ 6",
+			"choices": ["6.5", "11", "34.16", "29"],
+			"answer": "29",
+			"topic": "Math"
+		},
+		{
+			"question": "What is Cynophobia the fear of?",
+			"choices": ["Dogs", "Poisons", "Crustaceans", "Rapidly spinning"],
+			"answer": "Dogs",
+			"topic": "Science"
+		}
+	]
+}

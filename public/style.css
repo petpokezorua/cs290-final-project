@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+    margin: 0;
+    font-size: 14px;
+    background-color:rgb(2, 2, 51);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    outline: none;
+}
+
+.header {
+    overflow: hidden;
+    background-color: rgba(84, 72, 163, 0.755);
+    padding: 15px 10px;
+  }
+  
+  .header a {
+    float: left;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .header a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .header-right {
+    float: right;
+  }
+
+.box h3{
+    font-size: 30px;
+    color: whitesmoke;
+    font-weight: 400;
+    margin-bottom: 15px;
+    line-height: 25px;
+    display: grid;
+    text-align: center;
+}
+
+.box p{
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 22px;
+    color: whitesmoke;
+    font-weight: 400;
+    display: grid;
+    text-align: center;
+}
+
+.box p span{
+    font-weight: 500;
+    display: grid;
+    text-align: center;
+}
+
+.custom-box{
+    max-width: 700px;
+    background-color:darkslateblue;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    display: grid;
+    text-align: center;
+}
+
+.quiz-box .current-question-num{
+    font-size: 20px;
+    color: whitesmoke;
+    font-weight: 800;
+    border-bottom: 1px solid rgb(204, 204, 204);
+    line-height: 28px;
+    padding-bottom: 5px;
+}
+.quiz-box .question-content{
+    font-size: 20px;
+    font-weight: 350;
+    color: whitesmoke;
+    line-height: 30px;
+    padding: 10px 0;
+
+}
+
+.quiz-box .option-container .answer-option {
+    font-size: 19px;
+    color: whitesmoke;
+    background-color: rgb(109, 28, 141);
+    padding: 13px;
+    line-height: 30px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+}
+
+.quiz-box .option-container .answer-option-correct {
+    font-size: 19px;
+    color: whitesmoke;
+    background-color: rgb(20, 122, 46);
+    padding: 13px;
+    line-height: 30px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+}
+
+.quiz-box .option-container .answer-option-correct:hover {
+    font-size: 19px;
+    background-color: rgb(20, 122, 46);
+    color: whitesmoke;
+}
+
+.quiz-box .option-container .answer-option-incorrect {
+    font-size: 19px;
+    color: whitesmoke;
+    background-color: rgb(244, 46, 46);
+    padding: 13px;
+    line-height: 30px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+}
+
+.quiz-box .option-container .answer-option-incorrect:hover {
+    font-size: 19px;
+    background-color: rgb(244, 46, 46);
+    color: whitesmoke;
+}
+.quiz-box .option-container .answer-option:hover {
+    font-size: 20px;
+    background-color: beige;
+    color: black;
+}
+
+.quiz-box .option-container .answer-option:focus {
+    font-size: 20px;
+    background-color: beige;
+    color: black;
+}
+
+.quiz-box .result-container {
+    display: none;
+}
+.quiz-box .result-container .correct-answer{
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    background-color: greenyellow;
+    padding: 13px;
+    line-height: 30px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    border: none;
+}
+
+.quiz-box .result-container .wrong-answer {
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    background-color: red;
+    padding: 13px;
+    line-height: 30px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    border: none;
+}
+
+.box ._button {
+    margin-top: 20;
+}
+
+._button {
+    display: inline-block;
+    padding: 15px 43px;
+    background-color: rgb(243, 117, 33);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 9px #999;  /* Adding a shadow for boxes for the clicking animation. -Peter */
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+}
+._button:hover { /* Hover and active animation */
+    background-color: rgb(219, 106, 31);
+}
+._button:active {
+    background-color: rgb(219, 106, 31);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#next {
+    display: none;
+}
+
+#quiz-box {
+    display: none;
+}
+
+/* About css */
+.about {
+    padding: 79px 0px;
+    width: 100%;
+}
+
+.about_text {
+    width: 500px;
+}
+
+.main {
+    width: 700px;
+    max-width: 95%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.about_text h1{
+font-size: 45px;
+margin-bottom: 20px;
+text-transform: capitalize;
+text-align: center;
+color: white
+}
+
+.about_text h5{
+    font-size: 25px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    margin-bottom: 25px;
+    color: white
+    }
+
+.about_text p{
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 45px;
+    color: rgb(219, 106, 31);
+}
+
+.button_about {
+    display: inline-block;
+    padding: 15px 43px;
+    background-color: rgb(243, 117, 33);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0 6px #999;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+}
+
+.button_about a {
+    font-size: 17px;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+}
+
+.button_about:hover {
+    background-color: rgb(219, 106, 31);
+}
+
+.button_about:active {
+    background-color: rgb(219, 106, 31);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
